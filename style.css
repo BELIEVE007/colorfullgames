@@ -17,13 +17,14 @@ h1{
 
 
 button.btn{
-	border: 2px solid rgba(,0,100,1);
-background-color:  rgba(0,0,0,0.1);
-border-radius: 20px;
-font-family: 'Great Vibes', cursive;
-font-size: 20px;
-padding:5px 30px 5px 30px;
-font-weight: 1000;
+	
+	background-color:  rgba(0,0,0,0.1);
+	border-radius: 20px;
+	font-family: 'Great Vibes', cursive;
+	font-size: 20px;
+	padding:5px 30px 5px 30px;
+	font-weight: 1000;
+	border:none;
 }
 .btn:hover{
 	transform: scale(1.0);
